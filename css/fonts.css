@@ -1,0 +1,14 @@
+
+
+@font-face {
+    font-family: 'back_to_the_future';
+    src: url('../fonts/bttf-webfont.eot');
+    src: url('../fonts/bttf-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/bttf-webfont.woff2') format('woff2'),
+         url('../fonts/bttf-webfont.woff') format('woff'),
+         url('../fonts/bttf-webfont.ttf') format('truetype'),
+         url('../fonts/bttf-webfont.svg#back_to_the_future_2002Rg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
